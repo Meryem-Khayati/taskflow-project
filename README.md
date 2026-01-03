@@ -53,7 +53,7 @@ git clone https://github.com/Meryem-Khayati/taskflow-project.git
 2. Accéder au dossier du projet
 
 ```bash
-cd taskflow-starter
+cd taskflow-project
 ```
 
 3. Lancer l’application
