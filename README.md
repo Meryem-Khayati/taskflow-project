@@ -10,7 +10,7 @@ avancement à travers trois statuts : **À faire**, **En cours** et **Terminé**
 
 ## Technologies utilisées
 
-- Vue.js 3 (Composition API, Script Setup)
+- Vue.js 3 
 - Vite
 - Vue Router
 - Pinia (State Management)
@@ -36,8 +36,8 @@ avancement à travers trois statuts : **À faire**, **En cours** et **Terminé**
 - Affichage des projets de l’utilisateur connecté
 
 ### Gestion des tâches (Kanban)
-- Ajout de tâches (titre, description, date limite)
-- Modification du statut des tâches (To Do, Doing, Done)
+- Ajout de tâches 
+- Modification du statut des tâches 
 - Suppression des tâches
 - Synchronisation en temps réel avec Firestore
 
